@@ -3,6 +3,6 @@ package com.company.adatbazisdemo;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Feladatok f = new Feladatok();
     }
 }
